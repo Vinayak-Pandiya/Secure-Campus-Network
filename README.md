@@ -1,1 +1,1 @@
-# Secure-Campus-Network
+# Simple-Office-Network
